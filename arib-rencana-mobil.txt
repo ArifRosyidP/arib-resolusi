@@ -7,3 +7,4 @@ Rencana mobil arib
   mobil keluarga
 - ford F150
 - kona electric
+- hyundai ionic
