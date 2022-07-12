@@ -4,3 +4,5 @@ Rencana mobil arib
   mobil yang sangat powerful untuk dikendarai
 - alphard
 - ford F150
+- prius
+- kona electric
