@@ -3,4 +3,4 @@ Arib Resolusi
 - Beli moge
 - Beli rumah
 - Jadi kaya
-- Bikin program OP
+- membuat game
